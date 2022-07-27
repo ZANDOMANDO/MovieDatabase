@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{99EEBC53-756A-4712-BD6A-A04199527E2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="1" />
+      <File FileName="Movie.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieDatabase" expanded="True" selected="True">
+            <Node name="MovieDatabase" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MovieDatabase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
